@@ -1,0 +1,12 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "week 04 lecture notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js" 
+  },
+  "author": "Ryan Lee",
+  "license": "ISC"
+}
